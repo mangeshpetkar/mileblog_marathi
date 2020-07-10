@@ -1,1 +1,1 @@
-web:gunicorn Mileblog.wsgi
+web: gunicorn Mileblog.wsgi --log-file -
