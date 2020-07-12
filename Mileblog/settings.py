@@ -138,8 +138,8 @@ MEDIA_ROOT = os.path.join(BASE_DIR,'media')
 
 #s3 bucket
 
-AWS_ACCESS_KEY_ID = 'AKIA6P7BI563PZW5V2ZA'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = '************'
+AWS_SECRET_ACCESS_KEY = '****************'
 AWS_STORAGE_BUCKET_NAME = 'milestory-20-bucket'
 
 AWS_S3_FILE_OVERWRITE = False
