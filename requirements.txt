@@ -65,7 +65,7 @@ passlib==1.7.2
 pathspec==0.5.9
 pickleshare==0.7.5
 Pillow==7.1.1
-pipenv==2018.11.26
+pipenv==2022.1.8
 prometheus-client==0.7.1
 prompt-toolkit==1.0.18
 psycopg2==2.8.5
